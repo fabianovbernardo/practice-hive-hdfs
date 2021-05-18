@@ -6,10 +6,12 @@ Lembrando que essa prática foi utilizando o docker!
 #### LEVANTAR OS CLUSTERS
 Para estartar os clusters, vamos executar o segunte comando dentro do repositório de Big Data
 #docker-compose up -d
+
 1-Imagem
 
 #### ETAPA 1: DESLOCANDO O ARQUIVO LOCAL PARA O HDFS
 Antes de manipular qualquer tipo de tabela vamos acessar e utilizar o beeline, que é um cliente Hive que está incluindo nos principais clusters.
+
 2-Imagem
 
 #### ETAPA 2: CRIAÇÃO DE UMA TABELA INTERNA
